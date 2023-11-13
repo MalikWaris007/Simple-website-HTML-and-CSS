@@ -1,0 +1,55 @@
+body
+{
+    text-align: center;
+}
+.qqq
+{
+    padding-top: 250px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:gray;
+}
+.www
+{
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.eee
+{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ttt
+{
+    background-color: orangered;
+    color: white;
+   padding-left: 30px;
+   padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 7px;
+    font-size: 14px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aaa
+{
+    padding: 16px;
+    border:2px solid white;
+    border-radius: 7px;
+}
+.sss
+{
+    background-color:powderblue;
+    height: 900px;
+    width: 1400px;  
+}
+.rrr
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+}
+.hhh
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+}
